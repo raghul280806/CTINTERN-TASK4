@@ -20,5 +20,6 @@ Testing in a private environment allowed repeated experimentation without cost. 
 Understanding private blockchain deployment is essential for enterprise use cases such as supply chain management, healthcare records, and internal financial systems. Task 4 helped bridge the gap between learning blockchain theory and applying it in real-world organizational contexts
 
 output:
+  <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/b5c4044a-25d5-4ffe-816a-a8a19881fee2" />
   
 
